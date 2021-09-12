@@ -119,7 +119,7 @@ Run, VoicemeeterSliderControl.exe , , Hide
     ]
 }
 ```
-![Img not found](https://i0.wp.com/djlefave.com/wp-content/uploads/2020/10/3vm.jpg)
+![Img not found](3vm.jpg)
 
 5. Run it! When you run it, it starts automatically! (With Win+z and Win+u you can start or stop it.)
 ### Contributing
