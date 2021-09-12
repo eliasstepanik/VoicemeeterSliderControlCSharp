@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoicemeeterSliderControl", "VoicemeeterSliderControl.csproj", "{21650B59-0EEF-46AB-8663-DB1162392300}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21650B59-0EEF-46AB-8663-DB1162392300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21650B59-0EEF-46AB-8663-DB1162392300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21650B59-0EEF-46AB-8663-DB1162392300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21650B59-0EEF-46AB-8663-DB1162392300}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
