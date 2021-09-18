@@ -3,6 +3,12 @@
     <PropertyGroup>
         <OutputType>Exe</OutputType>
         <TargetFramework>net5.0</TargetFramework>
+        <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
     </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="System.IO.Ports" Version="5.0.1" />
+      <PackageReference Include="VoicemeeterRemote" Version="1.0.3" />
+    </ItemGroup>
 
 </Project>
